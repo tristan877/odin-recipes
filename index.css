@@ -1,0 +1,46 @@
+.recipe {
+    font-family: 'Courier New', Courier, monospace;
+}
+.title {
+    text-align: center;
+    color: white;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 3px;
+    background-color: brown;
+
+}
+
+.firstp {
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 3px;
+    background-color: aliceblue;
+}
+
+.secp {
+    color: white;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 3px;
+    background-color: brown;
+}
+
+.list {
+    background-color: aliceblue;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    border-radius: 3px;
+}
+
+.cheffry {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
